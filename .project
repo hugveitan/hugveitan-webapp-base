@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>idega-webapp-base</name>
+	<name>webapp-undirskrift.is</name>
 	<comment></comment>
 	<projects>
 		<project>com.idega.block.article</project>

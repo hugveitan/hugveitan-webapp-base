@@ -6,16 +6,16 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     <artifactId>com.idega.block.platform</artifactId>
     <version>5.0.0-SNAPSHOT</version>
   </parent>
-  <groupId>com.idega.webapp.product</groupId>
-  <artifactId>idega-webapp-base</artifactId>
+  <groupId>is.hugveitan.webapp.product</groupId>
+  <artifactId>webapp-undirskrift.is</artifactId>
   <packaging>iwwar</packaging>
   <version>5.0.0-SNAPSHOT</version>
-  <description>The base Idega web application with built in CeSM,CMS,DMS,XFORMS,BPM,JSF,AJAX and other features</description>
+  <description>Web application for undirskrift.is</description>
   <name>Idega</name>
-  <inceptionYear>2009</inceptionYear>
+  <inceptionYear>2012</inceptionYear>
   <organization>
-    <name>Idega Software</name>
-    <url>http://www.idega.org/</url>
+    <name>Hugveitan samfelagslausnir ehf.</name>
+    <url>http://www.hugveitan.is/</url>
   </organization>
   
   <scm>
