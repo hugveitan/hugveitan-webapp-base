@@ -3,6 +3,35 @@
 	<name>idega-webapp-base</name>
 	<comment></comment>
 	<projects>
+		<project>com.idega.block.article</project>
+		<project>com.idega.block.entity</project>
+		<project>com.idega.block.image</project>
+		<project>com.idega.block.login</project>
+		<project>com.idega.block.media</project>
+		<project>com.idega.block.navigation</project>
+		<project>com.idega.block.process</project>
+		<project>com.idega.block.process.webservice</project>
+		<project>com.idega.block.rss</project>
+		<project>com.idega.block.web2.0</project>
+		<project>com.idega.builder</project>
+		<project>com.idega.content</project>
+		<project>com.idega.core</project>
+		<project>com.idega.developer</project>
+		<project>com.idega.dwr</project>
+		<project>com.idega.faces</project>
+		<project>com.idega.graphics</project>
+		<project>com.idega.hibernate</project>
+		<project>com.idega.jackrabbit</project>
+		<project>com.idega.manager</project>
+		<project>com.idega.multidomain</project>
+		<project>com.idega.rewrite</project>
+		<project>com.idega.setup</project>
+		<project>com.idega.springframework</project>
+		<project>com.idega.user</project>
+		<project>com.idega.webface</project>
+		<project>com.idega.workspace</project>
+		<project>org.apache.axis</project>
+		<project>org.apache.myfaces</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
